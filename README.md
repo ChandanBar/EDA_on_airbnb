@@ -1,4 +1,6 @@
 # EDA_on_airbnb
 Data Analysis on Airbnb NYC
-These analysis is a part of our program Data Science Training at Almabetter. Here We did a Anaysis on Airbnb in New York City. We have applied various techniques of Exploatary Data Analysis. Which gave various outcomes to us. Data Visuliztion helps to understant the insights of any project easily. So just check it out our project report and codings.
-These Repository has both slef individual colab as CB and Team Artistic_Algorithm as group one.
+
+This analysis is a part of our programme of Data Science Training at Almabetter. Here we did an analysis of Airbnb in New York City. We have applied various techniques of exploratory data analysis. which gave various outcomes for us. Data visualisation helps to understand the insights of any project easily. So just take a look at our project report and codings.
+
+This repository has both self-initiated colab as CB and team artistic_algorithm as group one.
